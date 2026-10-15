@@ -1,7 +1,8 @@
 # Design-and-analysis-of-algorithms
 A structured 5-week Design and Analysis of Algorithms (DAA) practice repository covering Counter Method, Divide and Conquer, Greedy Algorithms, Competitive Programming, and Dynamic Programming, with 25 algorithmic problems and solutions.
 
-Weekly Topics
+Weekly Topics:
+
 .Week 1: Counter Method — 5 Questions
 
 .Week 2: Divide and Conquer — 5 Questions
@@ -12,14 +13,16 @@ Weekly Topics
 
 .Week 5: Dynamic Programming — 4 Questions
 
-Objectives
-Understand fundamental algorithm design techniques.
+Objectives:
 
-Develop problem-solving and analytical skills.
+.Understand fundamental algorithm design techniques.
 
-Analyze time and space complexity.
+.Develop problem-solving and analytical skills.
 
-Implement algorithms and document solutions.
+.Analyze time and space complexity.
 
-Total Problems
-25 algorithmic questions across five weeks.
+.Implement algorithms and document solutions.
+
+Total Problems:
+
+.25 algorithmic questions across five weeks.
